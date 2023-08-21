@@ -1,0 +1,13 @@
+###
+POST http://localhost:3000/api/foo/to-v1
+Content-Type: application/json
+
+{}
+
+
+###
+POST http://localhost:3000/api/foo/to-v2
+Content-Type: application/json
+
+{}
+
