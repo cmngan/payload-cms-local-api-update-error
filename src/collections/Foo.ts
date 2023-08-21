@@ -1,7 +1,9 @@
 import { CollectionConfig } from 'payload/types';
 
+// Change the following to your own ids
 const recordId = '64e339fc55d28e68cc4617a9';
 const blockId = '64e33baf07f3cadc5ffea3d6';
+
 const v1 = {
 	id: recordId,
 	normal: 'v1',
